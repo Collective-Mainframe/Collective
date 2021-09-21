@@ -1,14 +1,14 @@
 # Collective Kernel
 ![Banner](https://i.imgur.com/tJoqp0F.png)
-Version 2.31
+**v2.31**
 
-**Module versions**
-Mainframe: 3.0
-Firewall: 3.0
-Harmonic: 2.0
-Logistical: 2.0
-R&D: 2.5
-SWARM: 3.0
+### Module versions
+- Mainframe: 3.0
+- Firewall: 3.0
+- Harmonic: 2.0
+- Logistical: 2.0
+- R&D: 2.5
+- SWARM: 3.0
 
 # Building
 ## **1. Add Collective Matrix to sources.**
@@ -51,5 +51,5 @@ Collective Matrix usually takes 1-3 days to approve your connection. During time
 **Warning:** if a failure is detected in your installation process, your connection may be terminated. If the error can be fixed, instructions will be sent to you within the installation interface.
 
 # 🔗 Links
-Call stack: [Trello](https://trello.com/b/8JCvlSQb/collective-kanban-management-board)
-Syntax: [constitution](https://mermaidjs.github.io/)
+- Call stack: [Trello](https://trello.com/b/8JCvlSQb/collective-kanban-management-board)
+- Syntax: [constitution](https://mermaidjs.github.io/)
