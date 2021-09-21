@@ -13,7 +13,7 @@
 [![Constitution link](https://img.shields.io/website?down_message=offline&label=Syntax&logo=Google%20Drive&up_message=online&url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1o1Fl1fSxxv5iGatj-ELC4Q737rjjyMyqMJhloNu6M5Q%2Fedit)](https://docs.google.com/document/d/1o1Fl1fSxxv5iGatj-ELC4Q737rjjyMyqMJhloNu6M5Q/edit)
 
 # Building
-## **1. Add Collective Matrix to sources.**
+## **1. Add Collective to sources.**
 
 Use `Ctrl + L` in the browser of your choice and type:
 ```bash
@@ -48,6 +48,6 @@ Type the following within the installation interface:
 ```bash
 .submit
 ```
-Collective Matrix usually takes 1-3 days to approve your connection. During times of high traffic, this may also take up to a week.
+Collective usually takes 1-3 days to approve your connection. During times of high traffic, this may also take up to a week.
 
 **Warning:** if a failure is detected in your installation process, your connection may be terminated. If the error can be fixed, instructions will be sent to you within the installation interface.
