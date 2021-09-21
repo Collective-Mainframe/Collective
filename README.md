@@ -52,4 +52,4 @@ Collective Matrix usually takes 1-3 days to approve your connection. During time
 
 # 🔗 Links
 - Call stack: [Trello](https://trello.com/b/8JCvlSQb/collective-kanban-management-board)
-- Syntax: [constitution](https://mermaidjs.github.io/)
+- Syntax: [constitution](https://docs.google.com/document/d/1o1Fl1fSxxv5iGatj-ELC4Q737rjjyMyqMJhloNu6M5Q/edit)
