@@ -1,0 +1,122 @@
+# Collective Kernel v2.31
+- Better tools for management in Mainframe.
+- R&D has ported to a new projects system.
+- Arrays have expanded into the belt and moons.
+- Arrays are developing powerful ships and scripts.
+
+# Mainframe
+
+## Personnel
+- [Managerial Kanban](https://trello.com/b/8JCvlSQb/collective-kanban-board) created
+- Halfway through introducing management to the Kanban board.
+- Astyn#8888 joins Personnel.
+- Abraxis12#9845 steps down from Personnel due to IRL workload.
+
+## Array Coordination
+### Goals
+- Facilitation and incubation of new systems to promote integration of Arrays with Subnets and promote community engagement.
+### Events
+- N/A (not reported)
+
+## Subnet Coordination
+### Goals
+- Merge some changes to roles to streamline things.
+### Events
+- Several non-functioning Subnet services are being helped with.
+
+# Subnets
+
+## S.W.A.R.M.
+### Goals
+- Establish general command structure.
+### Events
+- Plans to hold regular events such as boot camps or training exercises. Dependant on getting more staff in swarm. Targeted to become a regular thing during the next weeks.
+- Steps to expanding SWARM command staff have been taken.
+
+## Harmonic
+### Goals
+- Establish a diplomatic division.
+### Events
+- Multiple community service hub websites are being put up. Contact established.
+- Collective pages added to Starbase Nexus and the new Starbase Faction Finder.
+- Minecraft server started by Hollow to generate some content.
+- Cooperation started with R&D to create a unified Collective ship style
+
+## R&D
+### Goals
+- N/A (not reported)
+### Events
+- AutoVC system implemented to replace Ticket Tool in projects system.
+- Anyone is easily able to make their projects public now.
+- Effort ot establish Collective Ship Shop in-game started.
+
+## Logistical
+### Goals
+- Linking Arrays to Logistical through shared goals.
+### Events
+- Stockpile is being moved to different people.
+
+## Firewall
+### Goals
+- Not reported.
+### Events
+- Not reported.
+
+# Arrays
+
+## Singularity Squadron
+### Goals
+- Not reported.
+### Events
+- Nothing to report.
+
+## A001 mining and logistics
+### Goals
+- Current goal is to finish the construction of the first Wyvern. This will greatly accelerate trans shipment times from afar.
+### Events
+- Set up stations at strategic locations above the belt, to enable easy access to all ore zones.
+
+## Rus Robots Squad
+### Goals
+1. Test and install autopilot on other than Zvex's or Slayez's ship.
+2. Prepare a plan for 1k km digging.
+3. Discuss (discussions have became a big part of the game for our Array) and develop possible concepts for battleships.
+4. Design the next version of transport between stations.
+### Events
+- Couple of very experienced players joined the Array.
+- We achieved the most of goals from the previous report: transferred the resources from 700km station, built some ships. The transportship is in the progress though.
+- We have a station near Moon.
+- Our Array has dived into scripting heavily:
+	- Two separate versions of autopilot scripts were developed.
+
+## The Leo Flotilla
+### Goals
+- Maintain current member count of European members. Exist. Find new goals members agree on.
+### Events
+- Nothing to report.
+
+## Late Shift Array
+### Goals
+1. Station construction.
+2. Ship construction.
+3. Experimentation with Factory halls.
+4. R&D CSS submission.
+### Events
+- We have constructed several more stations out of EoS into the Deep belt at 500km and 1000km with plans to place a 3rd inside zone 5; Along with placing ships at those stations or constructing small factory halls with work benches to facilitate repairs/refitting/refueling.
+- LSF has been supporting LGN mining events to facilitate the construction of a small mining fleet for use in the moon belt. Xyberviri has been working on a T1 Mining ship with intent to certify.
+- Tests with factories have been a fun experience in identifying what breaks factories.
+- Xyberviri intends to submit the T1 mining ship to the CSS project r&d is currently working on.
+
+## Legion
+### Goals
+- Expanding collective operational area and territory.
+### Events
+- Had a mining op gathered roughly 8000 stacks of ore.
+- Major game bugs destroyed about 3000 stacks and bugged 4 ships. Waiting on f1 comp.
+- Designed a heavy fighter that is cheap and effective around 400k. A few other specialty designs are cooking.
+
+## Unity
+### Goals
+- Not reported.
+### Events
+- Not reported.
