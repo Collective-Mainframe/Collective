@@ -1,0 +1,62 @@
+# Collective Kernel v2.35
+- [Goals Kanban board](https://trello.com/b/8JCvlSQb/collective-kanban-board) starting to be more widely adopted.
+- Collective [style and logo standards](https://miro.com/app/board/o9J_lu5Re-Q=/) finished. Waiting approval.
+- `#info_and_rules` in the main server nearing completion and has been opened.
+  - Member help page added.
+  - [List](https://i.imgur.com/LWBGCDY.png) of all ships in COL added.
+  - Explanation of COL structure and roles added.
+- Several new ships have been certified:
+  - [XROLECTOR](https://docs.google.com/presentation/d/1hw_j62c1soc2WKR2lfpyV5OMM4feDyHk7hSibk_sQvA/edit?usp=sharing)
+  - [Steinfänger](https://docs.google.com/presentation/d/1xOtpE8WEot4C2PzWSQUEiulvc-xnMqre7rRPW1NdYhg/edit?usp=sharing)
+  - [Boundary](https://docs.google.com/presentation/d/1s-ybgcnLMEVXPE_Tw0bU04ZDjd0N39c14hViGarSoJI/edit?usp=sharing)
+
+**REWORKS**
+- Major changes rolling out with Arrays, some Subnets and Mainframe:
+  - Matrix structure is being built around Arrays. First Matrix leader is sought from among Arrays.
+  - Mainframe is going through a total rework (WIP).
+    - Similarities to Substrate Directorate in splitting responsibility to departments, with Arrays being part of the C3: Operations department.
+  - Considerations of merging S.W.A.R.M. and Logistical Subnet functionality to Arrays and Mainframe.
+
+# Report Summary
+
+## Mainframe
+
+### Personnel
+- Major contribution done towards Mainframe rework.
+- Kanban board's initial setup maintained.
+- Compiled a list of potential event hosts.
+
+### Coordinators
+- Nothing significant to report.
+
+### Other Mainframe roles
+- Fleets Master releases the first iteration of [combat compositions](https://miro.com/app/board/o9J_ltkoToM=/) for Arrays.
+- Sheets Master releases the first iteration of [mining fleet compositions](https://docs.google.com/spreadsheets/d/1c-mRp1Zn_uopr6DKnVC_oru_2H23cxj6ClCNWRy0SK8/edit) for Arrays.
+
+## Subnets
+- Harmonic is working towards establishing a diplomatic division.
+- Harmonic is expanding its HR division.
+- Harmonic has finished spearheading the style and logo projects in R&D.
+- R&D is working towards re-establishing the commissions system.
+- R&D is reworking the wiki.
+- Firewall is seeking to improve the in-game company management setup.
+- Firewall has solved several issues with Steam verification for integration.
+- Firewall has gone through the long backlog and ensured everyone pending is in the in-game company.
+
+## Arrays
+- Rus Robots Squad and A001 mining and logistics have nearly finished ther1k crate haulers.
+- A001 Mining and Logistics is building drill ships in zone 5 and planning to loan them.
+
+# Highlights
+
+![](https://i.imgur.com/OO2xF1o.png)
+Dageran's soon to be certified medium brawler, Timberwolf.
+
+![](https://i.imgur.com/nmCpXZ9.png)
+Lukas' soon to be certified light interceptor, Dawnlance.
+
+![](https://i.imgur.com/GB4wFPe.png)
+New Collective logo standards.
+
+![](https://i.imgur.com/dU2Ug0A.png)
+QUB by ZoZo.
